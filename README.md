@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joseph McMorris II</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
 
+🔭 I’m currently working on a weather app with an API.
+
+🌱 I’m currently learning about AWS and refreshing my JavaScript, CSS, HTML skills.
+
+👯 I’m looking to collaborate on a projects.
+
+💬 Ask me about any of my projects.
+
 - 📫 How to reach me **josephmcmorris14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
