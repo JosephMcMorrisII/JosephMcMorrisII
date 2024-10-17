@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning about AWS and refreshing my JavaScript, CSS, HTML skills.
 
-👯 I’m looking to collaborate on a projects.
+👯 I’m looking to collaborate on projects.
 
 💬 Ask me about any of my projects.
 
