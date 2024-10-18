@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph McMorris II</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
 
-🔭 I’m currently working on a weather app with an API.
+🔭 I’m currently working on a Quiz App.
 
 🌱 I’m currently learning about AWS and refreshing my JavaScript, CSS, HTML skills.
 
